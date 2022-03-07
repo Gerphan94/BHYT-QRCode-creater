@@ -4,7 +4,7 @@ Tạo ngẫu nhiên QRCode của thẻ BHYT
 - Tạo thông tin thẻ BHYT (Đầu thẻ, Khu vực)
 - Convert Hex sang Unicode
 
-#<ainCode
+# MainCode
 - Convert Hex to Unicode
 - Random Name
 - Random BHYT Code
